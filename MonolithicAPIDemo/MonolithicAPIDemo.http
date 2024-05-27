@@ -1,0 +1,6 @@
+@MonolithicAPIDemo_HostAddress = http://localhost:5082
+
+GET {{MonolithicAPIDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
